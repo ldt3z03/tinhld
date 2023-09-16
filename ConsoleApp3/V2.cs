@@ -9,5 +9,6 @@ namespace ConsoleApp3
     class V2
     {
         private string ID;
+        private string name;
     }
 }
