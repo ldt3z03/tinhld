@@ -8,5 +8,6 @@ namespace ConsoleApp3
 {
     class V2
     {
+        private string ID;
     }
 }
